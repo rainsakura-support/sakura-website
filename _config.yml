@@ -1,12 +1,12 @@
 # Site settings
-author: Kimfucious
+author: Isshun 
 baseurl: ""
-brand: Sakura
-copyright: abts.io
-description: A clean Jekyll theme with baked in Bootstrap 4, responsive images, and more...
-email: example@example.com 
-title: Sakura Jekyll Theme 
-url: "https://sakura.abts.io"
+brand: RainSakura Studio 
+copyright: RainSakura Entertainment Ltd. 雨櫻娛樂
+description: The Stories of VTubers and You.
+email: support@rainsakura.studio 
+title: 雨櫻娛樂 RainSakura Studio 
+url: "https://rainsakura.studio"
 
 # Not using because Gulp is now processing SCSS
 # sass:
@@ -76,10 +76,10 @@ plugins: [jekyll-paginate-v2, jemoji, jekyll-sitemap, jekyll-seo-tag]
 
 # SEO
 social:
-  name: Kimfucious
+  name: RainSakura Studio
   links:
-    - https://github.com/kimfucious
-    - https://www.linkedin.com/in/kimaford/
+    - https://github.com/rainsakura-studio
+    - https://x.com/RainSakura2025
 webmaster_verifications:
   google: uubLfpcORmDWkM8pI-yKODVVZD3VSpUYFSwkQJcOuZE
 
@@ -87,11 +87,11 @@ webmaster_verifications:
 # Social icons
 show_social_icons: true
 facebook_username: 
-github_username: kimfucious 
+github_username: rainsakura-studio 
 googleplus_username: 
-linkedin_username: kimaford
+linkedin_username: 
 slack_username: 
-twitter_username: 
+twitter_username: RainSakura2025
 
 # Syntax highlighting <= disables built-in highlighter so that we can use Prism
 markdown: kramdown
